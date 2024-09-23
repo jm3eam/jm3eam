@@ -2,11 +2,10 @@
 
 <h1>Hi, I'm Jorge Montalvo! <br/><a href="https://github.com/jm3eam">Data Analytics College Senior</a>, & <a href="https://www.linkedin.com/in/jorge-m-montalvo-28123010/">Banking Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>🚀 Dynamic problem solver straddling the worlds of banking and data analytics</h2>
 
-🚀 I'm Jm3eam, a dynamic problem solver straddling the worlds of banking and data analytics. Currently pursuing a bachelor's track in data analytics while seamlessly wearing the hat of a banker.
 
-🌱 On my journey into the coding cosmos, I've explored MYSQL, TSQL, and recently, the captivating realm of Python. Oh, the adventures of Python!
+🌱 On my journey into the data analytics space, I've explored MYSQL, TSQL, Tableau, PySpark and Python.
 
 🔍 **T-SQL Aficionado:** Crafting efficient queries and optimizing databases for seamless data retrieval.
 
@@ -22,8 +21,17 @@
 
 💬 **Ask Me About:** Retail and small business banking fundamentals, including credit and standard banking products. I've got insights if you're working on projects related to the field.
 
-📫 **Connect with Me:** Drop me an email at jm3eam@gmail.com - Spanflix.
+<h2> 🤳 Connect with me:</h2>
+📫 **Drop me an email at jm3eam@gmail.com
 
-⚡ **Fun Fact:** Lefties unite! I'm part of the 8-lefty-strong family, including yours truly. 😝
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Let's connect and bring the best of both worlds into the realm of technology and finance! 
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/jorge-m-montalvo-28123010
+
+

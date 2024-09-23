@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋
+
+<h1>Hi, I'm Jorge Montalvo! <br/><a href="https://github.com/jm3eam">Data Analytics College Senior</a>, & <a href="https://www.linkedin.com/in/jorge-m-montalvo-28123010/">Banking Professional</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
 
 🚀 I'm Jm3eam, a dynamic problem solver straddling the worlds of banking and data analytics. Currently pursuing a bachelor's track in data analytics while seamlessly wearing the hat of a banker.
 

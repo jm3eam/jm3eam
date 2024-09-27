@@ -10,7 +10,7 @@
 
 
 - <b>🔍T-SQL</b>
-  - [Crafting efficient queries and optimizing databases for seamless data retrieval]
+  - [Crafting efficient queries and optimizing databases for seamless data retrieval](https://github.com/jm3eam/MySQL-TSQL-)
 
 
 - <b>🐍 Python</b>
@@ -19,7 +19,8 @@
   - [Transforming raw data into insightful visualizations (PPP SBA Loan Funding Analysis)](https://tinyurl.com/4f2wypa5)
   - [Supporting the Office of Emergency Medical Services  (Opiod Crisis in Tempe, Arizona)](https://tinyurl.com/46hecj5s)
 
-⚙️ **PySpark Explorer:** Navigating the world of big data with PySpark, building scalable and performant data processing pipelines.
+- <b>⚙️ **PySpark Explorer:** </b>
+  - [Navigating the world of big data with PySpark, building scalable and performant data processing pipelines.](https://github.com/jm3eam/BIG_Data)
 
 🤝 **Open to Collaboration:** I'm eager to collaborate on FINTECH projects, blending my banking background with tech innovations.
 
